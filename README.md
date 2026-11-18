@@ -1,16 +1,13 @@
-## Hi there 👋
+# Mark Samuel | Data Analytics Portfolio
 
-<!--
-**samuelmark91/samuelmark91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m transitioning from special education into data analytics after more than seven years in the classroom. I hold a master’s in Business Analytics & Artificial Intelligence. Teaching shaped how I work with data: ask a clear question, check what the evidence supports, and explain the result so someone can act on it.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What I built |
+| --- | --- |
+| **Bank Marketing Response Modeling · R** | Compared logistic regression, a decision tree, and a random forest to identify customers most likely to respond to a campaign. |
+| **Coffee Chain Profitability · Tableau** | Built an interactive dashboard to track profit against budget and explore differences by market and product. |
+| **Dynasty Rookie Big Board · Python** | Built a 2026 rookie draft board that combines prospect grades and historical draft behavior to rank players for a 12-team, one-quarterback league. |
+
+**Tools:** Python, R, SQL, Tableau, and Excel
