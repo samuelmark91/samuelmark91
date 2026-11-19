@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+.httr-oauth
+outputs/*.rds
